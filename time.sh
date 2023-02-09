@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "welcome `whoami`"
+echo "welcome Ahmed"
 echo "time `date`"
